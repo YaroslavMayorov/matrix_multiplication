@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/matrix_algo.dir/src/main.cpp.o CMakeFiles/matrix_algo.dir/src/Algorithms.cpp.o CMakeFiles/matrix_algo.dir/src/Matrix.cpp.o -o matrix_algo  -framework Accelerate

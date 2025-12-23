@@ -1,0 +1,3 @@
+/Users/bonnnyblack/.gemini/antigravity/scratch/matrix_multiplication/build/CMakeFiles/matrix_algo.dir
+/Users/bonnnyblack/.gemini/antigravity/scratch/matrix_multiplication/build/CMakeFiles/edit_cache.dir
+/Users/bonnnyblack/.gemini/antigravity/scratch/matrix_multiplication/build/CMakeFiles/rebuild_cache.dir
